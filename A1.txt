@@ -1,9 +1,15 @@
 Assignment 1
 
 a) 1
+Correct!
 
 b) 2
+Wrong!
 
 c) 3
+Correct!
 
 d) 4
+Correct!
+
+3/4
